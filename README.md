@@ -10,7 +10,7 @@ This repository provides **structured training materials, coding exercises, and 
 **Mohamed Mohsen Ali** (Level 1 Coach)
 
 ## 📂 Folder Structure
-- **Fundamentals/** - Complete guide to **C++ Fundamentals** with explanations and examples.
+- **Fundamentals/** - Complete guide to **C++ Fundamentals** with explanations and examples. [Notion Link](https://acpc-kfs.notion.site/Session-1-1a686f7595fb80908a68da1f68e77e2e)
 
 ## 📖 How to Use
 
