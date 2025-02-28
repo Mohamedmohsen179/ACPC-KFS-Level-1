@@ -10,7 +10,7 @@ This repository provides **structured training materials, coding exercises, and 
 **Mohamed Mohsen Ali** (Level 1 Coach)
 
 ## 📂 Folder Structure
-- **STL/** - Complete guide to **C++ STL** with explanations and examples.
+- **Fundamentals/** - Complete guide to **C++ Fundamentals** with explanations and examples.
 
 ## 📖 How to Use
 
