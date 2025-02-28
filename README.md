@@ -16,7 +16,7 @@ This repository provides **structured training materials, coding exercises, and 
 
 Clone the repository:
 ```bash
-git clone https://github.com/Mohamedmohsen179/acpc-kfs-leve-1.git
+git clone https://github.com/Mohamedmohsen179/ACPC-KFS-Level-1.git
 ```
 
 Happy coding! 🚀🔥
