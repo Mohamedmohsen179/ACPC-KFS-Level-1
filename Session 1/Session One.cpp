@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
 
+   
 #ifdef MeMo
      freopen("input.txt", "rt", stdin);
      //freopen("output.txt", "w", stdout);
